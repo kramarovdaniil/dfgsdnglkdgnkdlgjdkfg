@@ -3,4 +3,5 @@
 3. Pygame
 4. HTML
 5. OOP
-6. idk
+6. asldl
+7. oasdkk
